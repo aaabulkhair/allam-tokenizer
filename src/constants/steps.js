@@ -1,0 +1,42 @@
+export const steps = [
+  {
+    id: 0,
+    label: "The Problem",
+    title: "Why Arabic Breaks English Tokenizers",
+    hash: "problem",
+    color: "#FF4B4B",
+    accent: "#FF8C8C",
+  },
+  {
+    id: 1,
+    label: "Step 1",
+    title: "Train Arabic Tokenizer",
+    hash: "train",
+    color: "#F7931E",
+    accent: "#FFBA6B",
+  },
+  {
+    id: 2,
+    label: "Step 2",
+    title: "Merge Vocabularies",
+    hash: "merge",
+    color: "#00C2A8",
+    accent: "#6EFCE8",
+  },
+  {
+    id: 3,
+    label: "Step 3",
+    title: "Initialize New Embeddings",
+    hash: "embedding",
+    color: "#7B5EA7",
+    accent: "#B89FD8",
+  },
+  {
+    id: 4,
+    label: "Result",
+    title: "The Improved Model",
+    hash: "result",
+    color: "#27AE60",
+    accent: "#6FCF97",
+  },
+];
